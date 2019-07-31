@@ -1,0 +1,1 @@
+apache-jena-3.12.0\bat\sparql.bat --data=sparql_tutorial/vc-db-1.rdf --query=sparql_tutorial/q1.rq 
